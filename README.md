@@ -145,7 +145,7 @@ Confidence: 96%
 ---
 
 ## GitHub Repository
-https://github.com/shiwanshm66/Fine_tuned_hate-speech-app_Muril-35/edit/main
+https://github.com/shiwanshm66/Fine_tuned_hate-speech-app_Muril-35
 
 
 ---
