@@ -79,9 +79,7 @@ Fine_tuned_hate-speech-app_Muril/
 ## Installation
 
 ```bash
-git clone https://github.com/ArpitSingh18-hub/Fine_tuned_hate-speech-app_Muril.git
-
-cd Fine_tuned_hate-speech-app_Muril
+git clone https://github.com/shiwanshm66/Fine_tuned_hate-speech-app_Muril-35
 
 pip install -r requirements.txt
 ```
@@ -152,6 +150,6 @@ https://github.com/shiwanshm66/Fine_tuned_hate-speech-app_Muril-35
 
 ## Author
 
-**Arpit Singh**
+**SHIVANSH MISHRA**
 
 B.Tech CSE (AI & ML)
