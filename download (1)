@@ -1,0 +1,21 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Large / unnecessary folders
+dataset/
+training_output/
+training_output_v2/
+eda/
+streamlit_deploy_app/
+
+# Python cache & logs
+__pycache__/
+*.log
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
